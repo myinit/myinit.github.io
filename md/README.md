@@ -16,8 +16,3 @@
 
 * mini版vue3源码地址：[uuz](https://github.com/zhongmeizhi/uuz)
 
-## 最后
-
-* 更多精彩请关注微信公众号：**前端进阶课**
-
-![微信公众号-前端进阶课](/fed-note/ewm.png)

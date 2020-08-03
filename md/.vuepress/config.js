@@ -1,18 +1,16 @@
 module.exports = {
-  base: "/fed-note/",
-  title: "Mokou的小书房",
+  base: "/",
+  title: "前端知识",
   keys: "Mokou,源码解析,前端,Vue,Vue3,Es6,Javascript",
   description: "Mokou,源码解析,前端,Vue,Vue3,Es6,Javascript",
   themeConfig: {
     logo: '/mh.jpg',
     nav: [
         { text: '主页', link: '/' },
-        { text: 'Github', link: 'https://github.com/zhongmeizhi' },
-        // { text: '测试', link:'/css/mobile'}
     ],
     sidebar: [
       {
-        title: '深入浅出 Vue3',   // 必要的
+        title: '前端知识',   // 必要的
         children: [
           {
             title: 'vite篇',   // 必要的

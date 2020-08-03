@@ -112,6 +112,5 @@ export default __script
 
 解析 `.css` 就更加简单了。通过 `document.createElement('style')` 然后再注入就好了
 
-[参考-大圣 的知乎文章](https://zhuanlan.zhihu.com/p/149033579)
 
 ps：具体的源码还没看（先搞点 Vue3 吧）
